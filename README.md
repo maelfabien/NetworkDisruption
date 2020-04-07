@@ -6,6 +6,8 @@ The notebook contains a network exploration and techniques to disrupt the networ
 
 I wrote an article on this work on my personal blog: https://maelfabien.github.io/machinelearning/sicilian/#
 
+![image](app.png)
+
 ---
 
 Reference to the paper and the dataset:
